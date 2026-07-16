@@ -17,4 +17,3 @@ Account Active Status : ${isAccountActive}
 Last Login Date : ${lastLoginDate}
 User's Preferred Language : ${userLanguage}`);
 
-// "Continue JavaScript practice. We finished Day 1 Variables & Data Types. Start Day 2 Operators."
